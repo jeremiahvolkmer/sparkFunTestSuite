@@ -1,0 +1,21 @@
+package stepFiles;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.firefox.FirefoxDriver;
+import cucumber.api.java.Before;
+public class Login 
+{
+	private WebDriver driver; 
+	
+	@Before 
+	public void setup()
+	{
+		System.setProperty("webdriver.gecko.driver", "/home/bluedog/Program/spark_fun_test_suit")
+	}
+	
+	
+	
+}

@@ -1,0 +1,2 @@
+System.setProperty("webdriver.gecko.driver", 
+				"/home/bluedog/Program/eclipse_ws/CucumberFramework2/CucumberFramework/src/test/java/CucumberFramework/resources/geckodriver");
